@@ -9,6 +9,12 @@
 ```bash
 [ -f "hemixyz.sh" ] && rm hemixyz.sh; wget -q https://raw.githubusercontent.com/BidyutRoy2/PoP-mining-within-Hemi-Network/main/hemixyz.sh && chmod +x hemixyz.sh && ./hemixyz.sh
 ```
+
+## Save Your Private Key
+## Claim Faucet in Discord
+## Address Example- `mimEoEEhjXy6h2x543s4ZYEWyMpAZN7WZZ`
+## Sent /tbtc-faucet & address
+
 - If you want to check logs, use the below command
 ```bash
 screen -r hemipop
