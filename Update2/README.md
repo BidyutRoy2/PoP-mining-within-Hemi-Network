@@ -9,6 +9,8 @@
 [ -f "Latesthemixyz.sh" ] && rm Latesthemixyz.sh; wget -q https://raw.githubusercontent.com/BidyutRoy2/PoP-mining-within-Hemi-Network/refs/heads/main/Latesthemixyz.sh && chmod +x Latesthemixyz.sh && ./Latesthemixyz.sh
 ```
 
+### Import Your Hemi Testnet Wallet Private Key
+
 - **Copy all these details and save it somewhere**
 ```bash
 cat ~/popm-address.json
