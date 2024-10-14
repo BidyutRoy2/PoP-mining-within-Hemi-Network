@@ -4,6 +4,14 @@
 - You can start PoP mining either using VPS or using Ubuntu on your local system, I will go with a normal VPS
 - RAM : 2 GB, Storage : 50 GB, CPU : 2 Core
 
+## If You Already Installed Delete File (Command)
+```
+rm heminetwork_v0.4.3_linux_amd64.tar.gz hemixyz.sh
+```
+```
+rm -rf heminetwork_v0.4.3_linux_amd64
+```
+
 ## Installation
 ```bash
 [ -f "Latesthemixyz.sh" ] && rm Latesthemixyz.sh; wget -q https://raw.githubusercontent.com/BidyutRoy2/PoP-mining-within-Hemi-Network/refs/heads/main/Latesthemixyz.sh && chmod +x Latesthemixyz.sh && ./Latesthemixyz.sh
