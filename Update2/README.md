@@ -29,7 +29,10 @@ cat ~/popm-address.json
 sudo journalctl -u hemi.service -f -n 50
 ```
 
+## Auto Sestart Service Hemi POP Mining 
+
 ## Overall stats
+
 - Visit [this website](https://testnet.popstats.hemi.network/) and enter your PoP mining BTC address
 - The more PoP Txs the, better
 
