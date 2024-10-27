@@ -29,7 +29,7 @@ cat ~/popm-address.json
 sudo journalctl -u hemi.service -f -n 50
 ```
 
-## Auto Sestart Service Hemi POP Mining 
+## Auto Restart Service Hemi POP Mining 
 
 ## Overall stats
 
